@@ -32,6 +32,7 @@
 </head>
 
 <body>
+    <?php include("pop-model.php"); ?>
 <!-- Preloader -->
 <!-- <div class="preloader">
 <div class="loading">
@@ -193,4 +194,4 @@
 <div id="smooth-wrapper">
 <div id="smooth-content">
 <main>
-    <?php include("pop-model.php"); ?>
+    
