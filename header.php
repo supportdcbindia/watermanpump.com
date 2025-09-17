@@ -193,3 +193,4 @@
 <div id="smooth-wrapper">
 <div id="smooth-content">
 <main>
+    <?php include("pop-model.php"); ?>
