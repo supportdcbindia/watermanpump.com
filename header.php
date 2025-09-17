@@ -25,6 +25,10 @@
 <link rel="stylesheet" href="assets/css/master.css">
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css">
+
+
+    <link rel="stylesheet" href="assets/css/model-custom.css" />
+    <link rel="stylesheet" href="assets/css/sidebar-btn.css" />
 </head>
 
 <body>

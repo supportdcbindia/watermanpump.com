@@ -65,6 +65,11 @@
 <script src="assets/js/jquery.meanmenu.min.js"></script>
 <script src="assets/js/main.js"></script>
 
+
+  <script type="text/javascript" src="assets/js/index.js"></script>
+  <script type="text/javascript" src="assets/js/jquery.validate.min.js"></script>
+  <script type="text/javascript" src="assets/js/custom.js"></script>
+  <script type="text/javascript" src="assets/js/js.js"></script>
 <script src="http://dimsemenov.com/plugins/magnific-popup/dist/jquery.magnific-popup.min.js"></script>
 <script>
     $(document).ready(function() {
