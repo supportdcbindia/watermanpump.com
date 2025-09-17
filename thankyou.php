@@ -12,7 +12,7 @@
 
         <div class="row">
             <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12">
-                <div class="product-items-box">
+                <div class="product-items-box" style="border: 0px;">
                     <div class="product-items-img">
                         <h2 class="text-center" style="color: green;">Thankyou!!Successfully Submitted</h2>
             <h4 class="text-center thnak4">Your Inquiry has been successfully submitted to the concern department.You
