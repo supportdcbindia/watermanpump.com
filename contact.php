@@ -28,37 +28,64 @@
       </div>
       <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-7">
         <div class="contact__form">
-          <form action="https://www.wealcoder.com/dev/html/axtra/assets/mail.php" method="POST">
-            <div class="row g-3">
-              <div class="col-xxl-6 col-xl-6 col-12">
-                <input type="text" name="name" placeholder="Name *">
-              </div>
-              <div class="col-xxl-6 col-xl-6 col-12">
-                <input type="email" name="email" placeholder="Email *">
-              </div>
-            </div>
-            <div class="row g-3">
-              <div class="col-xxl-6 col-xl-6 col-12">
-                <input type="tel" name="phone" placeholder="Phone">
-              </div>
-              <div class="col-xxl-6 col-xl-6 col-12">
-                <input type="text" name="subject" placeholder="Subject *">
-              </div>
-            </div>
-            <div class="row g-3">
-              <div class="col-12">
-                <textarea name="message" placeholder="Messages *"></textarea>
-              </div>
-            </div>
-            <div class="row g-3">
-              <div class="col-12">
-                <div class="btn_wrapper">
-                  <button class="wc-btn-primary btn-hover btn-item"><span></span> Send <br>Messages <i
-                      class="fa-solid fa-arrow-right"></i></button>
-                </div>
-              </div>
-            </div>
-          </form>
+          <form class="form-horizontal form3" action="inquiry-action.php" method="post" novalidate="novalidate">
+                  <div class="form-group has-feedback">
+                    <div class="col-md-12">
+                      <input name="name" id="name" type="text" placeholder="Name" class="form-control">
+
+                    </div>
+                  </div>
+                  <div class="form-group has-feedback">
+                    <div class="col-md-12">
+                      <input name="email" id="email" type="text" placeholder="E-Mail Address" class="form-control">
+
+                    </div>
+                  </div>
+                  <div class="form-group has-feedback">
+                      <div class="col-md-12" style="padding:0px;">
+                          <div class="col-md-12 col-sm-12 col-xs-12 mybottom">
+                              <select id="country1" class="selectstyle form-control" name="country">Select
+                                  Country</select>
+                          </div>
+                          <div class="col-md-4 col-sm-4 col-xs-5 mybottom" style="display:none">
+                              <select name="code" id="state1" class="selectstyle form-control"
+                                  style="width: 100%;">
+                                  <option value="">+00</option>
+                              </select>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="form-group has-feedback">
+                    <div class="col-md-12">
+                      <input name="number" id="number" type="tel" placeholder="Phone" maxlength="15" minlength="10" class="form-control number21">
+
+                    </div>
+                  </div>
+                  <div class="form-group has-feedback">
+                    <div class="col-md-12">
+                      <textarea class="form-control" name="message" id="message" placeholder="Requirement"></textarea>
+
+                    </div>
+                  </div>
+                  <div class="form-group has-feedback">
+                    <div class="col-md-12">
+                      <div class="row">
+                        <div class="col-md-8 col position-relative">
+                          <input name="captcha" id="captcha" placeholder="Captcha Code" class="form-control" type="text">
+
+                        </div>
+                        <div class="col-md-4 col">
+                          <img src="captcha.php" class="capside">
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="form-group has-feedback">
+                    <div class="col-md-12 col-sm-3 col-xs-12">
+                      <input name="submit" class="submit submitbutton" type="submit" value="Submit Now!">
+                    </div>
+                  </div>
+                </form>
         </div>
       </div>
     </div>
