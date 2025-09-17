@@ -110,6 +110,18 @@
     Fancybox.bind("[data-fancybox]", {
     });
 </script>
+<script language="javascript">
+            populateCountries("country", "state");
+    </script>
+    <script language="javascript">
+            populateCountries("country1", "state1");
+    </script>
+     <script language="javascript">
+            populateCountries("country2", "state2");
+    </script>
+    <script language="javascript">
+            populateCountries("country3", "state3");
+    </script>
 
 </body>
 </html>
