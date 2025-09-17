@@ -9,14 +9,14 @@
         </div>
         <div class="footer__social-3">
             <ul>
-            <li><a href="#">facebook</a></li>
-            <li><a href="#">Twitter</a></li>
-            <li><a href="#">Linkedin</a></li>
-            <li><a href="#">Instagram</a></li>
+            <li><a href="https://www.facebook.com/watermanindustries/" target="_blank">facebook</a></li>
+            <li><a href="https://www.youtube.com/channel/UCXZ7h30i7qhHYnroKiIdjrA" target="_blank">youtube</a></li>
+            <li><a href="https://in.linkedin.com/company/waterman-industries-private-limited" target="_blank">Linkedin</a></li>
+            <li><a href="https://www.instagram.com/watermanpumpindustries" target="_blank">Instagram</a></li>
             </ul>
         </div>
         <div class="footer__contact-3">
-            <a class="end" href="javascript:;">Let’s talk</a>
+            <a class="end click1" href="javascript:;">Let’s talk</a>
         </div>
         </div>
     </div>
@@ -32,13 +32,13 @@
             <div class="col-xxl-8 col-xl-8 col-lg-8">
             <div class="footer__nav-2">
                 <ul class="footer-menu-2 menu-anim">
-                <li><a href="javascript:;">Home</a></li>
-                <li><a href="javascript:;">About</a></li>
-                <li><a href="javascript:;">Products</a></li>
-                <li><a href="javascript:;">Video</a></li>
-                <li><a href="javascript:;">Clients</a></li>
-                <li><a href="javascript:;">Gallery</a></li>
-                <li><a href="javascript:;">Contact</a></li>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="about.php">About</a></li>
+                <li><a href="product.php">Products</a></li>
+                <li><a href="videos.php">Video</a></li>
+                <li><a href="clients.php">Clients</a></li>
+                <li><a href="gallery.php">Gallery</a></li>
+                <li><a href="contact.php">Contact</a></li>
                 </ul>
             </div>
             </div>
