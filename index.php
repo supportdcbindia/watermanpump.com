@@ -223,7 +223,7 @@
                         <span class="portfolio__icon-4"><i class="fa-solid fa-arrow-right"></i></span>
                       </div>
                     </div>
-                    <img src="assets/imgs/home-page/products/submersible-motors.webp" alt="Portfolio Image">
+                    <img src="assets/imgs/inner-pages/products/landing-page/export-submersible-motor-pumps.webp" alt="export-submersible-motor-pumps">
                   </a>
                 </div>
               </div>
