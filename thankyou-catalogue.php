@@ -13,7 +13,7 @@
         <div class="row">
             <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12">
                 <a  id="lnnk" href='pdf/Waterman_Perfomance Book rev. no 3.pdf' target="_blank"   download> <h4 class="text-center thnak4">" Thank You For Inquiry We Will Reply You Within 24 Hours"</h4> 
-                <div class="message" style="display:block;margin:0px 0 100px;text-align:center"><img src="images/download_gif.gif"  class="center-block">Click Here For Your  Requested Catalogue Download</div>
+                <div class="message" style="display:block;margin:0px 0 100px;text-align:center"><img src="assets/imgs/download_gif.gif"  class="center-block">Click Here For Your  Requested Catalogue Download</div>
                </a>
             </div>
             
