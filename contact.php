@@ -44,11 +44,11 @@
                   <div class="form-group has-feedback">
                       <div class="col-md-12" style="padding:0px;">
                           <div class="col-md-12 col-sm-12 col-xs-12 mybottom">
-                              <select id="country1" class="selectstyle form-control" name="country">Select
+                              <select id="country3" class="selectstyle form-control" name="country">Select
                                   Country</select>
                           </div>
                           <div class="col-md-4 col-sm-4 col-xs-5 mybottom" style="display:none">
-                              <select name="code" id="state1" class="selectstyle form-control"
+                              <select name="code" id="state3" class="selectstyle form-control"
                                   style="width: 100%;">
                                   <option value="">+00</option>
                               </select>
