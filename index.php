@@ -199,25 +199,25 @@
             <div class="swiper-wrapper">
               <div class="swiper-slide">
                 <div class="portfolio__item-4">
-                  <a href="submersible-pumpsets.php">
+                  <a href="domestic-submersible-pumps.php">
                     <div class="portfolio__item-inner">
                       <div class="portfolio__title-wrapper">
-                        <h4 class="portfolio__title-4">S.S Submersible Pumps</h4>
+                        <h4 class="portfolio__title-4">Domestic and Agriculture Cast Iron Pumpset Series</h4>
                       </div>
                       <div class="portfolio__icon-link">
                         <span class="portfolio__icon-4"><i class="fa-solid fa-arrow-right"></i></span>
                       </div>
                     </div>
-                    <img src="assets/imgs/home-page/products/submersible-pump.webp" alt="Portfolio Image">
+                    <img src="assets/imgs/inner-pages/products/landing-page/domestic-submersible-pumps/domestic-and-agriculture-cast-iron-pumpset-series.webp" alt="domestic-and-agriculture-cast-iron-pumpset-series">
                   </a>
                 </div>
               </div>
               <div class="swiper-slide">
                 <div class="portfolio__item-4">
-                  <a href="open-submersible-monoset.php">
+                  <a href="export-submersible-motor-pumps.php">
                     <div class="portfolio__item-inner">
                       <div class="portfolio__title-wrapper">
-                        <h4 class="portfolio__title-4">Submersible Motors</h4>
+                        <h4 class="portfolio__title-4">Export Submersible Motor And Pump Series</h4>
                       </div>
                       <div class="portfolio__icon-link">
                         <span class="portfolio__icon-4"><i class="fa-solid fa-arrow-right"></i></span>
@@ -227,7 +227,7 @@
                   </a>
                 </div>
               </div>
-              <div class="swiper-slide">
+              <!-- <div class="swiper-slide">
                 <div class="portfolio__item-4">
                   <a href="submersible-pumpsets.php">
                     <div class="portfolio__item-inner">
@@ -286,7 +286,7 @@
                     <img src="assets/imgs/home-page/products/ci-submersible-pumpsets-1.webp" alt="Portfolio Image">
                   </a>
                 </div>
-              </div>
+              </div> -->
             </div>
           </div>
         </div>
