@@ -199,7 +199,7 @@
             <div class="swiper-wrapper">
               <div class="swiper-slide">
                 <div class="portfolio__item-4">
-                  <a href="portfolio.html">
+                  <a href="submersible-pumpsets.php">
                     <div class="portfolio__item-inner">
                       <div class="portfolio__title-wrapper">
                         <h4 class="portfolio__title-4">S.S Submersible Pumps</h4>
@@ -214,7 +214,7 @@
               </div>
               <div class="swiper-slide">
                 <div class="portfolio__item-4">
-                  <a href="portfolio.html">
+                  <a href="open-submersible-monoset.php">
                     <div class="portfolio__item-inner">
                       <div class="portfolio__title-wrapper">
                         <h4 class="portfolio__title-4">Submersible Motors</h4>
@@ -229,7 +229,7 @@
               </div>
               <div class="swiper-slide">
                 <div class="portfolio__item-4">
-                  <a href="portfolio.html">
+                  <a href="submersible-pumpsets.php">
                     <div class="portfolio__item-inner">
                       <div class="portfolio__title-wrapper">
                         <h4 class="portfolio__title-4">C.I Submersible Pumpsets</h4>
