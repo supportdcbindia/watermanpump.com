@@ -16,7 +16,7 @@
       </li>
      <li class="whataspp-icon none-li imgnone">
         <a onclick="gtag('event', 'send', { 'event_category': 'click on whatsapp', 'event_action': 'Mobile', 'event_label': '+916354916823' });" href="https://api.whatsapp.com/send?phone=916354916823&amp;text=Hello team Waterman Industries Pvt. Ltd., I was going through your website and wish to get connected for product discussion" target="_blank">
-            <span class="icon1"> <i class="fa fa-whatsapp"></i></span> <span class="btn-text"> Whatsapp</span></a>
+            <span class="icon1"> <i class="fab fa-whatsapp"></i></span> <span class="btn-text"> Whatsapp</span></a>
     </li>
     </ul>
   </div>
