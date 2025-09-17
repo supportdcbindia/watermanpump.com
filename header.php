@@ -63,6 +63,7 @@
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5S4SK6GG"
             height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
+     <?php include("pop-model.php"); ?>
 <!-- Preloader -->
 <!-- <div class="preloader">
 <div class="loading">
