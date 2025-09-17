@@ -56,7 +56,7 @@
           <div class="about__content text-anim">
             <p>An innovative spirit that guides and the power of technology that enables, Waterman Industries Pvt. Ltd. has been a prominent exporter and manufacturer of water pumps. When it comes to performance, innovation and quality, Waterman has constantly set benchmarks for its competitors. Accredited with ISO 9001-2008 by Germany- TUV NORD, we manufacture in excess of 3000 variants of water pumps that include but are not limited to centrifugal pumps, vertical as well as horizontal open-well submersible motors, submersible pumps, etc. every product of ours has been engineered to perfection by expert hands. Through its expertise and experience spanning more than four decades, Waterman is committed to becoming an innovator and the standard for excellence and quality. For more details please visit our company profile page in more tab.</p>
             <div class="cursor-btn btn_wrapper">
-              <a class="btn-item wc-btn-primary btn-hover" href="javascript:;">
+              <a class="btn-item wc-btn-primary btn-hover" href="about.php">
                 <span></span> Read More <i class="fa-solid fa-arrow-right"></i>
               </a>
             </div>
