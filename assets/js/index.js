@@ -1,5 +1,5 @@
 
-jQuery(window).load(function() {
+jQuery(document).ready(function() {
 
      jQuery.validator.addMethod("namenew", function (value, element) {
         if (/^[^-\s][a-zA-Z_\s-]+$/.test(value)) {
