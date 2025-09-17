@@ -26,7 +26,7 @@
       <div class="modal-content">
         <div class="modal-body stick_popup">
           <h5 class="modal-title">Request A Quote</h5>
-          <div class="stick_close" data-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></div>
+          <div class="stick_close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></div>
           <div class="row">
             <!-- <div class="col-md-5 col-sm-12 col-xs-12">
               <div class="logo-wrapper">
@@ -132,7 +132,7 @@
       <div class="modal-content">
         <div class="modal-body stick_popup">
           <h5 class="modal-title">Catalogue Request Form</h5>
-          <div class="stick_close" data-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></div>
+          <div class="stick_close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></div>
           <div class="row">
             <!-- <div class="col-md-5 col-sm-12 col-xs-12">
               <div class="logo-wrapper">
