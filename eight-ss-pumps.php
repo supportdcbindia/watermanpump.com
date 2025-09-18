@@ -104,7 +104,7 @@
 					</li>
 					<li>Connection : Screwed pipe connection with BSP thread as standard.</li>
 				</ul>
-                <?php include('product-details-btn.php'); ?>
+                <?php include('product-details-btn-export-submersible-pumps.php'); ?>
               </div>
             </div>
           </div>
