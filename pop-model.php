@@ -244,7 +244,7 @@
       <a class="nav_up click2" href="tel:+916354916823" href="javascript:;" style="color:#FFF; font-size:12px;font-weight:600;"><i class="fa fa-phone" style="margin-right: 5px;"></i> Call</a>
     </div> -->
 <div class="book-app" style="background:#1b5670;width: 75%;" id="req-apnmt2">
-      <a class="nav_up click1" href="javascript:;" style="color:#FFF; font-size:12px;font-weight:600;"><i class="fa fa-envelope fa-2x" style="margin-right: 5px;"></i> Enquire Now</a>
+      <a class="nav_up click1" href="javascript:;" style="color:#FFF;font-size:12px;font-weight:600;line-height: 1;display: flex;align-items: center;justify-content: center;height: 100%;"><i class="fa fa-envelope fa-2x" style="margin-right: 5px;"></i> Enquire Now</a>
     </div>
     <div class="book-app" style="background: #2db640;width: 25%;">
     <a onclick="gtag('event', 'send', { 'event_category': 'click on whatsapp', 'event_action': 'Mobile', 'event_label': '+916354916823' });" href="https://api.whatsapp.com/send?phone=916354916823&amp;text=Hello team Waterman Industries Pvt. Ltd., I was going through your website and wish to get connected for product discussion" style="color:#FFF; font-size:12px;font-weight:600;"><i class="fab fa-whatsapp fa-2x" style="margin-right: 5px;"></i></a>
