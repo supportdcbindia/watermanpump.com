@@ -238,7 +238,7 @@
     <!-- <div class="book-app" style="background: #000;">
       <a class="nav_up click2" href="tel:+916354916823" href="javascript:;" style="color:#FFF; font-size:12px;font-weight:600;"><i class="fa fa-phone" style="margin-right: 5px;"></i> Call</a>
     </div> -->
-<div class="book-app" style="background:#252775;" id="req-apnmt2">
+<div class="book-app" style="background:#1b5670;" id="req-apnmt2">
       <a class="nav_up click1" href="javascript:;" style="color:#FFF; font-size:12px;font-weight:600;"><i class="fa fa-envelope" style="margin-right: 5px;"></i> Enquire Now</a>
     </div>
     <div class="book-app" style="background: #2db640;">
