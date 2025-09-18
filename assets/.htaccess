@@ -1,3 +1,6 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^watermanpump.com [NC]
+RewriteRule ^(. *)$ https://www.watermanpump.com/$1 [L,R=301]
 
 # Enable GZIP
 <ifmodule mod_deflate.c>
