@@ -103,7 +103,7 @@
 					<li>Small Farms </li>
 					<li>Domestic Pressure Boosting</li>
 				</ul>
-                <?php include('product-details-btn.php'); ?>
+                <?php include('product-details-btn-domestic.php'); ?>
               </div>
             </div>
           </div>

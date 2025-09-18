@@ -100,7 +100,7 @@
 					<li>Double sealed ball bearing</li>
 					<li>Sturdy handle for easy lifting</li>
 				</ul>
-                <?php include('product-details-btn.php'); ?>
+                <?php include('product-details-btn-domestic.php'); ?>
               </div>
             </div>
           </div>
