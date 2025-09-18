@@ -2217,7 +2217,7 @@ img {
 }
 @media only screen and (max-width: 767px) {
   .sec-title-2 {
-    font-size: 45px;
+    font-size: 28px!important;
   }
 }
 .sec-title-3 {
