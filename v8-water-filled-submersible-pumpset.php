@@ -51,7 +51,7 @@
                           $i++;
                     ?>
                     <div class="carousel-item  <?=$active;?>" id="my1">
-                        <img src="<?php echo $p ?>" alt=" Laser Marking Machine" title=" Laser Marking Machine" class="img-fluid" />
+                        <img src="<?php echo $p ?>" alt=" waterman pump" title=" waterman pump" class="img-fluid" />
                     </div>
                     <?php 
                     }?>
@@ -78,7 +78,7 @@
                           
                     ?>
                     <li data-bs-target="#carousel-custom" data-bs-slide-to="<?=($i);?>" class="<?=$active;?>">
-                      <img src="<?php echo $p;?>" alt="Laser Marking Machine" title="Laser Marking Machine" />
+                      <img src="<?php echo $p;?>" alt="waterman pump" title="waterman pump" />
                     </li>
                     <?php
                     $i++;
@@ -100,7 +100,7 @@
                   <li>Energy efficient design.</li>
                   <li>Good quality components and parts require less maintenance.</li>
                 </ul>
-                <?php include('product-details-btn.php'); ?>
+                <?php include('product-details-btn-domestic.php'); ?>
               </div>
             </div>
           </div>

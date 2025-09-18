@@ -2,7 +2,7 @@
     <a class="btn-1 btn-3 click1">
         <i class="fa fa-comment" style="margin-right: 15px;"></i>Make An Inquiry
     </a>
-    <a class="btn-1 btn-3 click2">
+    <a class="btn-1 btn-3 click2" data-href="pdf/ci-pumpset-performance-booklet.pdf">
         <i class="fa fa-file-pdf" style="margin-right:15px;"></i></i>Download Catalogue
     </a>
 </div>
