@@ -93,7 +93,7 @@
                 <p>Waterman W3 Series submersible motors are Water Lubricated, designed for installation in 3" diameter or larger water wells. These motors operate in Capacitor Start Capacitor Run (CSCR) & Capacitor Start Run (CSR) system and can be easily rewound and repaired.</p>
 				<p>Waterman W3 Series Submersible motors are robust rewindable and pre-filled with clean water mixed with anti-corrosion fluid. The stator winding is of Poly wrap double coated copper winding wires. It features water lubricated radial and thrust bearings. Dynamically balanced rotor of these Waterman W3 Series submersible motors maintain uniform clearance to give better efficiency and increase the life cycle of the water lubricated bush. Specially designed high performance thrust bearings are used to withstand high axial thrust loads.</p>
 				<p>Pressure equalizing rubber diaphragm is provided to guard against pressure and volume variations due to thermal expansion of water inside the motor. Motor is sealed by "O" rings, shaft seals and sand guards to prevent leakage of motor lubricant and ingress of well water, sand and fiber particles in to the motor. Mounting dimension of motors are in accordance with "NEMA" standard.</p>
-                <?php include('product-details-btn.php'); ?>
+                <?php include('product-details-btn-domestic-export-submersible-motor.php'); ?>
               </div>
             </div>
           </div>

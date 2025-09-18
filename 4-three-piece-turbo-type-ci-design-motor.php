@@ -90,7 +90,7 @@
             <div class="col-lg-6">
               <div class="sec-title-wrapper">
                 <h2 class="sec-title animation__char_come">4” Three Piece Turbo Type Ci Design Motor</h2>
-                <?php include('product-details-btn.php'); ?>
+                <?php include('product-details-btn-domestic-export-submersible-motor.php'); ?>
               </div>
             </div>
           </div>

@@ -31,7 +31,7 @@
 				</a>
 			</div>
 			<div class="product-items-title">
-				<h2><a href="4-single-piece-ci-design-motor.php">4” Single Piece Ci Design Motor</a></h2>
+				<h2><a href="4-single-piece-ci-design-motor.php">4” Single Piece CI Design Motor</a></h2>
 			</div>
 		</div>
       </div>
@@ -43,7 +43,7 @@
 				</a>
 			</div>
 			<div class="product-items-title">
-				<h2><a href="4-single-piece-ss-cladding-design-motor.php">4” Single Piece Ss Cladding Design Motor</a></h2>
+				<h2><a href="4-single-piece-ss-cladding-design-motor.php">4” Single Piece SS Cladding Design Motor</a></h2>
 			</div>
 		</div>
       </div>
@@ -55,7 +55,7 @@
 				</a>
 			</div>
 			<div class="product-items-title">
-				<h2><a href="4-single-piece-ss-design-motor.php">4” Single Piece Ss Design Motor</a></h2>
+				<h2><a href="4-single-piece-ss-design-motor.php">4” Single Piece SS Design Motor</a></h2>
 			</div>
 		</div>
       </div>
@@ -67,7 +67,7 @@
 				</a>
 			</div>
 			<div class="product-items-title">
-				<h2><a href="4-three-piece-turbo-type-ci-design-motor.php">4” Three Piece Turbo Type Ci Design Motor</a></h2>
+				<h2><a href="4-three-piece-turbo-type-ci-design-motor.php">4” Three Piece Turbo Type CI Design Motor</a></h2>
 			</div>
 		</div>
       </div>
@@ -91,7 +91,7 @@
 				</a>
 			</div>
 			<div class="product-items-title">
-				<h2><a href="6-single-piece-ss-cladding-design-motor.php">6” Single Piece Ss Cladding Design Motor</a></h2>
+				<h2><a href="6-single-piece-ss-cladding-design-motor.php">6” Single Piece SS Cladding Design Motor</a></h2>
 			</div>
 		</div>
       </div>
@@ -103,7 +103,7 @@
 				</a>
 			</div>
 			<div class="product-items-title">
-				<h2><a href="6-single-piece-ss-design-motor.php">6” Single Piece Ss Design Motor</a></h2>
+				<h2><a href="6-single-piece-ss-design-motor.php">6” Single Piece SS Design Motor</a></h2>
 			</div>
 		</div>
       </div>
@@ -115,7 +115,7 @@
 				</a>
 			</div>
 			<div class="product-items-title">
-				<h2><a href="6-three-piece-turbo-type-ci-design-motor.php">6” Three Piece Turbo Type Ci Design  Motor</a></h2>
+				<h2><a href="6-three-piece-turbo-type-ci-design-motor.php">6” Three Piece Turbo Type CI Design  Motor</a></h2>
 			</div>
 		</div>
       </div>
