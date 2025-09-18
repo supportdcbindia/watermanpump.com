@@ -89,7 +89,7 @@
             <div class="col-lg-6">
               <div class="sec-title-wrapper">
                 <h2 class="sec-title animation__char_come">Centrifugal Monoblock Pumpsets</h2>
-                <?php include('product-details-btn.php'); ?>
+                <?php include('product-details-btn-domestic.php'); ?>
               </div>
             </div>
           </div>
