@@ -10,7 +10,7 @@
         </a>
       </li>
       <li class="download-pdf none-li inquiery-icon  imgnone">
-        <a data-href="pdf/CI PUMPSET Performance Booklet.pdf" href="javascript:;" class="click2">
+        <a data-href="pdf/ci-pumpset-performance-booklet.pdf" href="javascript:;" class="click2">
           <span class="icon"> <i class="fa fa-file-pdf"></i></span> <span class="btn-text">Catalogue</span>
         </a>
       </li>
@@ -231,16 +231,17 @@
   <!-- End My Model -->
 
   <div class="footer-box" style="display: none;">
-    <div class="book-app" style="background:#252775;" id="req-apnmt2">
+    
+    <div class="book-app" style="background: #222;">
+      <a class="nav_up click2" data-href="pdf/ci-pumpset-performance-booklet.pdf" href="javascript:;" style="color:#FFF; font-size:12px;font-weight:600;"><i class="fa fa-file-pdf" style="margin-right: 5px;"></i> Catalogue</a>
+    </div>
+    <!-- <div class="book-app" style="background: #000;">
+      <a class="nav_up click2" href="tel:+916354916823" href="javascript:;" style="color:#FFF; font-size:12px;font-weight:600;"><i class="fa fa-phone" style="margin-right: 5px;"></i> Call</a>
+    </div> -->
+<div class="book-app" style="background:#252775;" id="req-apnmt2">
       <a class="nav_up click1" href="javascript:;" style="color:#FFF; font-size:12px;font-weight:600;"><i class="fa fa-envelope" style="margin-right: 5px;"></i> Enquire Now</a>
     </div>
-    <div class="book-app" style="background: #222;">
-      <a class="nav_up click2" data-href="pdf/CI PUMPSET Performance Booklet.pdf" href="javascript:;" style="color:#FFF; font-size:12px;font-weight:600;"><i class="fa fa-file-pdf" style="margin-right: 5px;"></i> Catalogue</a>
-    </div>
-    <div class="book-app" style="background: #000;">
-      <a class="nav_up click2" href="tel:+916354916823" href="javascript:;" style="color:#FFF; font-size:12px;font-weight:600;"><i class="fa fa-phone" style="margin-right: 5px;"></i> Call</a>
-    </div>
-   <div class="book-app" style="background: #2db640;">
+    <div class="book-app" style="background: #2db640;">
     <a onclick="gtag('event', 'send', { 'event_category': 'click on whatsapp', 'event_action': 'Mobile', 'event_label': '+916354916823' });" href="https://api.whatsapp.com/send?phone=916354916823&amp;text=Hello team Waterman Industries Pvt. Ltd., I was going through your website and wish to get connected for product discussion" style="color:#FFF; font-size:12px;font-weight:600;"><i class="fab fa-whatsapp" style="margin-right: 5px;"></i> Whatsapp</a>
   </div>
 
