@@ -2127,7 +2127,7 @@
 
 
   // Charchater Come Animation 
-  let char_come = document.querySelectorAll(".animation__char_come")
+  let char_come = document.querySelectorAll(".")
 
   char_come.forEach((char_come) => {
     let split_char = new SplitText(char_come, { type: "chars, words" })
@@ -2136,7 +2136,7 @@
 
 
   // Charchater Come long Animation 
-  let char_come_long = document.querySelectorAll(".animation__char_come_long")
+  let char_come_long = document.querySelectorAll("._long")
 
   char_come_long.forEach((char_come) => {
     let split_char = new SplitText(char_come, { type: "chars, words" })

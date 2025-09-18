@@ -3,9 +3,9 @@
 <section class="product-details-title-container">
   <div class="container-fluid big-pad">
     <div class="sec-title-wrapper">
-      <h2 class="sec-title animation__char_come">V type Monoblock Pumpset</h2>
+      <h2 class="sec-title ">V type Monoblock Pumpset</h2>
     </div>
-    <div class="breadcrumb animation__char_come">
+    <div class="breadcrumb ">
       <ul>
         <li><a href="index.php"><i class="fa-solid fa-home"></i></a></li>
         <li><a href="product.php">Products</a></li>
@@ -88,7 +88,7 @@
             </div>
             <div class="col-lg-6">
               <div class="sec-title-wrapper">
-                <h2 class="sec-title animation__char_come">V type Monoblock Pumpset</h2>
+                <h2 class="sec-title ">V type Monoblock Pumpset</h2>
 				<h5 class="product-list-second-title">Application</h5>
 				<ul class="product-list-check-icon-item">
 					<li>Small fountains. Civil applications, solarheater systems, Residentialbungalows, Drinking water supply Gardens and Domestic, Small gardens, Water circulationin lawns Waterstorage tanks, Smalifarms.Domestic pressure boosting</li>

@@ -327,7 +327,7 @@
     <div class="row pb-130">
       <div class="col-xxl-8 col-xl-7 col-lg-6 col-md-6">
         <div class="sec-title-wrapper">
-          <h2 class="sec-title-2 animation__char_come">Fast Growing Industrial & Manufacturing Estates.</h2>
+          <h2 class="sec-title-2 ">Fast Growing Industrial & Manufacturing Estates.</h2>
         </div>
       </div>
       <div class="col-xxl-4 col-xl-5 col-lg-6 col-md-6">

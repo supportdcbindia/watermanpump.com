@@ -5,7 +5,7 @@
     <div class="row pb-90">
       <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12">
         <div class="sec-title-wrapper">
-          <h2 class="sec-title-2 animation__char_come">Openwell Pumpset Series</h2>
+          <h2 class="sec-title-2 ">Openwell Pumpset Series</h2>
         </div>
       </div>
     </div>

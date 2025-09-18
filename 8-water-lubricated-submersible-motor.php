@@ -3,9 +3,9 @@
 <section class="product-details-title-container">
   <div class="container-fluid big-pad">
     <div class="sec-title-wrapper">
-      <h2 class="sec-title animation__char_come">8” Water Lubricated Submersible Motor</h2>
+      <h2 class="sec-title ">8” Water Lubricated Submersible Motor</h2>
     </div>
-    <div class="breadcrumb animation__char_come">
+    <div class="breadcrumb ">
       <ul>
         <li><a href="index.php"><i class="fa-solid fa-home"></i></a></li>
         <li><a href="product.php">Products</a></li>
@@ -89,7 +89,7 @@
             </div>
             <div class="col-lg-6">
               <div class="sec-title-wrapper">
-                <h2 class="sec-title animation__char_come">8” Water Lubricated Submersible Motor</h2>
+                <h2 class="sec-title ">8” Water Lubricated Submersible Motor</h2>
 				<p>Waterman W8 series submersible motors are water Lubricated designed for installation in B ^ n diameter or larger water wells. These motors can be easily rewound and repaired..</p>
 				<p>Waterman WB Series Submersible motors are robust rewindable and pre-filled with clean water mixed with anti-corrosion fluid. The stator winding is of poly wrap double coated copper winding wires. It features water lubricated radial and thrust bearings. Dynamically balanced rotor of these Waterman WB Series submersible motors maintain uniform clearance to give better efficiency and increase the life cycle of the water lubricated bush. Specially designed high performance thrust bearings are used to withstand high axial thrust loads.</p>
 				<p>Pressure equalizing rubber diaphragm is provided to guard against pressure and volume variations due to thermal expansion of water inside the motor. Motor is sealed by "O" rings, shaft seals and sand guards to prevent leakage of motor lubricant and ingress of well water, sand and fiber particles in to the motor. Mounting dimension of motors are in accordance with "NEMA" standard.</p>

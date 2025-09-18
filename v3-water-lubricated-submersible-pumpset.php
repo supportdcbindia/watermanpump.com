@@ -3,9 +3,9 @@
 <section class="product-details-title-container">
   <div class="container-fluid big-pad">
     <div class="sec-title-wrapper">
-      <h2 class="sec-title animation__char_come"> V3 Water lubricated</h2>
+      <h2 class="sec-title "> V3 Water lubricated</h2>
     </div>
-    <div class="breadcrumb animation__char_come">
+    <div class="breadcrumb ">
       <ul>
         <li><a href="index.php"><i class="fa-solid fa-home"></i></a></li>
         <li><a href="product.php">Products</a></li>
@@ -89,7 +89,7 @@
             </div>
             <div class="col-lg-6">
               <div class="sec-title-wrapper">
-                <h2 class="sec-title animation__char_come">V3 Water lubricated Submersible Pumpset</h2>
+                <h2 class="sec-title ">V3 Water lubricated Submersible Pumpset</h2>
                 <h5 class="product-list-second-title">Slient Features:</h5>
                 <ul class="product-list-check-icon">
                   <li>Multi Stage Centrifugal Pump with Radial flow Impeller.</li>
