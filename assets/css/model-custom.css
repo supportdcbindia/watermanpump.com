@@ -106,7 +106,7 @@
 .has-feedback .form-control,
 select {
     border-radius: 0px;
-    padding: 15px;
+    padding: 8px;
     color: rgb(33 37 41) !important;
     font-weight: 600;
     letter-spacing: 0.5px;
