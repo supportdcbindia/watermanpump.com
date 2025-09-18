@@ -35556,6 +35556,12 @@ padding-top: 0; }
 .productpage-details-container .sec-title-wrapper {
   padding-bottom: 50px;
   padding-top: 50px;
+  position: relative;
+  z-index: 9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
 }
 .productpage-details-container .sec-title-2 {
   font-size: 66px;
