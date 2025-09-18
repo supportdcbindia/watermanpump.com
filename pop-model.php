@@ -1,3 +1,8 @@
+<style>
+  .fa-2x {
+    font-size: 1.5em;
+}
+</style>
 <div class="sticklist">
     <button class="open-close-arrow">
       <span class="open-arrow"><i class="fa fa-chevron-right"></i></span>
@@ -230,22 +235,21 @@
 
   <!-- End My Model -->
 
-  <div class="footer-box" style="display: none;">
+<div class="footer-box" style="display: none;">
     
-    <div class="book-app" style="background: #222;">
-      <a class="nav_up click2" data-href="pdf/ci-pumpset-performance-booklet.pdf" href="javascript:;" style="color:#FFF; font-size:12px;font-weight:600;"><i class="fa fa-file-pdf" style="margin-right: 5px;"></i> Catalogue</a>
+    <div class="book-app" style="background: #222;width: 25%;">
+      <a class="nav_up click2" data-href="pdf/ci-pumpset-performance-booklet.pdf" href="javascript:;" style="color:#FFF; font-size:12px;font-weight:600;"><i class="fa fa-file-pdf fa-2x" style="margin-right: 5px;"></i></a>
     </div>
     <!-- <div class="book-app" style="background: #000;">
       <a class="nav_up click2" href="tel:+916354916823" href="javascript:;" style="color:#FFF; font-size:12px;font-weight:600;"><i class="fa fa-phone" style="margin-right: 5px;"></i> Call</a>
     </div> -->
-<div class="book-app" style="background:#1b5670;" id="req-apnmt2">
-      <a class="nav_up click1" href="javascript:;" style="color:#FFF; font-size:12px;font-weight:600;"><i class="fa fa-envelope" style="margin-right: 5px;"></i> Enquire Now</a>
+<div class="book-app" style="background:#1b5670;width: 75%;" id="req-apnmt2">
+      <a class="nav_up click1" href="javascript:;" style="color:#FFF; font-size:12px;font-weight:600;"><i class="fa fa-envelope fa-2x" style="margin-right: 5px;"></i> Enquire Now</a>
     </div>
-    <div class="book-app" style="background: #2db640;">
-    <a onclick="gtag('event', 'send', { 'event_category': 'click on whatsapp', 'event_action': 'Mobile', 'event_label': '+916354916823' });" href="https://api.whatsapp.com/send?phone=916354916823&amp;text=Hello team Waterman Industries Pvt. Ltd., I was going through your website and wish to get connected for product discussion" style="color:#FFF; font-size:12px;font-weight:600;"><i class="fab fa-whatsapp" style="margin-right: 5px;"></i> Whatsapp</a>
+    <div class="book-app" style="background: #2db640;width: 25%;">
+    <a onclick="gtag('event', 'send', { 'event_category': 'click on whatsapp', 'event_action': 'Mobile', 'event_label': '+916354916823' });" href="https://api.whatsapp.com/send?phone=916354916823&amp;text=Hello team Waterman Industries Pvt. Ltd., I was going through your website and wish to get connected for product discussion" style="color:#FFF; font-size:12px;font-weight:600;"><i class="fab fa-whatsapp fa-2x" style="margin-right: 5px;"></i></a>
   </div>
 
   </div>
-
 
   <!-- End My Model -->
