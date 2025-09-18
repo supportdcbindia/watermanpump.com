@@ -16,7 +16,8 @@
             </ul>
         </div>
         <div class="footer__contact-3">
-            <a class="end click1" href="javascript:;">Let’s talk</a>
+            <!-- <a class="end click1" href="javascript:;">Let’s talk</a> -->
+             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3675.1183653626504!2d72.42658001537492!3d22.909004626310857!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e90d59d6809cf%3A0x59473f86f189c635!2sWATERMAN%20INDUSTRIES%20PVT.LTD!5e0!3m2!1sen!2sin!4v1592054196483!5m2!1sen!2sin" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
         </div>
         </div>
     </div>
