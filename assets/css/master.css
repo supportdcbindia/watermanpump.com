@@ -21487,7 +21487,7 @@ img {
   border-bottom: 1px solid var(--black-6);
 }
 .footer__top-wrapper-3 {
-  padding: 0 50px;
+  padding: 0 0px;
   display: -ms-grid;
   display: grid;
   -ms-grid-columns: 30% 10% auto;
@@ -21986,7 +21986,7 @@ img {
 }
 .footer__contact-3 {
   text-align: right;
-  padding-top: 90px;
+  padding: 0px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .footer__contact-3 {
