@@ -27,7 +27,7 @@
         </div>
       </div>
       <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-7">
-        <div class="contact__form">
+        <div class="contact__form my-custom-modal">
           <form class="form-horizontal form3" action="inquiry-action.php" method="post" novalidate="novalidate">
                   <div class="form-group has-feedback">
                     <div class="col-md-12">
