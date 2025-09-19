@@ -10,7 +10,7 @@
         <li><a href="index.php"><i class="fa-solid fa-home"></i></a></li>
         <li><a href="product.php">Products</a></li>
         <li><a href="domestic-submersible-pumps.php">Domestic Submersible Pumps</a></li>
-        <li><a href="submersible-pumpsets.php">Submersible Pumpsets</a></li>
+        <li><a href="submersible-pumpsets.php">Submersible Pumpset Series</a></li>
         <li><span>V7 Water Lubricated Pumpset</span></li>
       </ul>
     </div>

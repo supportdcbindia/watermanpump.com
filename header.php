@@ -333,7 +333,7 @@ if (basename($_SERVER['PHP_SELF']) == 'contact.php') {
                     <ul>
                         <li><a href="domestic-submersible-pumps.php">Domestic Submersible Pumps</a>
                             <ul class="sub-dropdown">
-                                <li><a href="submersible-pumpsets.php">Submersible Pumpsets</a></li>
+                                <li><a href="submersible-pumpsets.php">Submersible Pumpset Series</a></li>
                                 <li><a href="open-submersible-monoset.php">Open Submersible Monoset</a></li>
                             </ul>
                         </li>
