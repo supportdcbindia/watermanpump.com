@@ -19,7 +19,7 @@
 				</a>
 			</div>
 			<div class="product-items-title">
-				<h2><a href="submersible-pumpsets.php">Cast Iron Pupmset Series</a></h2>
+				<h2><a href="submersible-pumpsets.php">Submersible Pumpset Series</a></h2>
 			</div>
 		</div>
       </div>
