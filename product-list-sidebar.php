@@ -14,7 +14,7 @@
         <div class="accordion-body">
           <ul class="product-list-accordion">
             <li>
-              <a href="submersible-pumpsets.php" class="product-list-title">Submersible Pumpsets</a>
+              <a href="submersible-pumpsets.php" class="product-list-title">Submersible Pumpset Series</a>
               <ul class="product-list-accordion-sub">
                 <li class="active"><a href="v3-water-lubricated-submersible-pumpset.php">V3 Water lubricated Submersible Pumpset</a></li>
                 <li><a href="v4-water-lubricated-submersible-pumpset.php">V4 Water lubricated Submersible Pumpset</a></li>

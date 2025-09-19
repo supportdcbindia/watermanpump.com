@@ -264,7 +264,7 @@ if (basename($_SERVER['PHP_SELF']) == 'contact.php') {
             <ul class="main-dropdown">
                 <li><a href="domestic-submersible-pumps.php">Domestic and Agriculture Cast Iron Pumpset Series</a>
                     <ul class="sub-dropdown">
-                        <li><a href="submersible-pumpsets.php">Cast Iron Pupmset Series</a></li>
+                        <li><a href="submersible-pumpsets.php">Submersible Pumpset Series</a></li>
                         <li><a href="open-submersible-monoset.php">Openwell Pumpset Series</a></li>
                         <li><a href="mini-domestic-mono-block-pumps.php">Domestic ZSef Priming Pumpset Series</a></li>
                         <li><a href="centrifugal-monoblock-pumpsets.php">Centrifugal Monoblock Pumpsets</a></li>
